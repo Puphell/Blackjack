@@ -29,6 +29,18 @@ This game was developed using:
    ```bash
    git clone https://github.com/Puphell/Blackjack.git
 
+2. Open the project in Unity (version X.X.X or later).
+
+3. Press Play in the Unity Editor to start the game.
+
+**Roadmap**
+
+Future updates planned for Blackjack King include:
+
+- Online multiplayer support.
+- New themes and custom card designs.
+- Achievements and leaderboards.   
+
 [Website](https://pereffect-fuwn.b12sites.com/)
 
 [Itch.io](https://pereffectdev.itch.io/blackjack)
