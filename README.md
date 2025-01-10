@@ -48,3 +48,6 @@ Future updates planned for Blackjack King include:
 ## Screenshots
 
 ![Blackjack King Logo](Assets/Sprites/Blackjack%20King%20logo.png)
+
+## License
+This project is licensed under the MIT License. See the [LICENSE](./LICENSE) file for details.
